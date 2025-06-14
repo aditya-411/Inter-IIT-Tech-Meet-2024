@@ -1,4 +1,4 @@
-# Team 62 Final Endeval Submission - PS2 Zelta Untrade
+# IITR Inter IIT Tech Meet Zeltalabs problem statement submission
 
 This submission includes two strategies, one for BTC and one for ETH, implemented in the following Python files:  
 **1)** **BTC_TSI+KAMA.py**  
